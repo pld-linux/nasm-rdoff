@@ -5,7 +5,7 @@ Summary(uk.UTF-8):	Інструменти для бінарного формат
 Name:		nasm-rdoff
 # nasm 2.16 dropped rdoff format support
 Version:	2.15.05
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Tools
 Source0:	https://www.nasm.us/pub/nasm/releasebuilds/%{version}/nasm-%{version}.tar.xz
